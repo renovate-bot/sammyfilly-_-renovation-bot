@@ -266,7 +266,7 @@
     "@types/auth-header": "1.0.2",
     "@types/aws4": "1.11.3",
     "@types/breejs__later": "4.1.2",
-    "@types/bunyan": "1.8.8",
+    "@types/bunyan": "1.8.11",
     "@types/cacache": "15.0.1",
     "@types/callsite": "1.0.31",
     "@types/changelog-filename-regex": "2.0.0",
