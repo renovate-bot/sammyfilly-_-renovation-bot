@@ -270,7 +270,7 @@
     "@types/cacache": "15.0.1",
     "@types/callsite": "1.0.31",
     "@types/changelog-filename-regex": "2.0.0",
-    "@types/clean-git-ref": "2.0.0",
+    "@types/clean-git-ref": "2.0.2",
     "@types/common-tags": "1.8.1",
     "@types/conventional-commits-detector": "1.0.0",
     "@types/diff": "5.0.3",
