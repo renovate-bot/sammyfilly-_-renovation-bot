@@ -30,9 +30,10 @@
       "enabled": false
     }
   ],
-  "regexManagers": [
+  "customManagers": [
     {
-      "fileMatch": ["config/options/index.ts"],
+      "customType": "regex",
+      "managerFilePatterns": ["/config/options/index.ts/"],
       "matchStrings": [
         "default: '(?<depName>ghcr.io/containerbase/sidecar):(?<currentValue>.*)'"
       ],
